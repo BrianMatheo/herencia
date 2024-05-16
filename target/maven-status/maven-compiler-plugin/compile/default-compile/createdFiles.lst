@@ -1,0 +1,4 @@
+com\mycompany\inheritance\Inheritance.class
+com\mycompany\inheritance\people\Person.class
+com\mycompany\inheritance\people\Admin.class
+com\mycompany\inheritance\people\Student.class
